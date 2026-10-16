@@ -45,7 +45,9 @@ A live HUD dashboard that tracks your session stats in real time:
    Get [Tampermonkey](https://www.tampermonkey.net/) or [Violentmonkey](https://violentmonkey.github.io/) for Chrome, Edge, Firefox, or Brave.
 
 2. **Add the Script**  
-   Install `buddy.js` directly from your userscript manager or load it manually into your extensions dashboard.
+   Install `buddy.js` directly from your userscript manager or load it manually into your extensions dashboard. And or use the direct install link.
+
+   [![Install](https://img.shields.io/badge/Install-Userscript-blue.svg)](https://raw.githubusercontent.com/<username>/<repo>/main/script.user.js)
 
 3. **Get a Gemini API Key** *(Free)*  
    To use the AI Auto-Answer feature:
