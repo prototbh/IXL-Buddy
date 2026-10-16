@@ -47,7 +47,7 @@ A live HUD dashboard that tracks your session stats in real time:
 2. **Add the Script**  
    Install `buddy.js` directly from your userscript manager or load it manually into your extensions dashboard. And or use the direct install link.
 
-   [![Install](https://img.shields.io/badge/Install-Userscript-blue.svg)](https://raw.githubusercontent.com/<username>/<repo>/main/script.user.js)
+   [![Install](https://img.shields.io/badge/Install-Userscript-blue.svg)](https://raw.githubusercontent.com/prototbh/IXL-Buddy/main/ixl-buddy.user.js)
 
 3. **Get a Gemini API Key** *(Free)*  
    To use the AI Auto-Answer feature:
