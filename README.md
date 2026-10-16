@@ -50,7 +50,7 @@ You can run IXL Buddy either as a persistent userscript (recommended) or directl
 
 1. Open any practice skill or dashboard page on [IXL](https://www.ixl.com).
 2. Press `F12` (or `Ctrl+Shift+J` on Windows/Chromebook, `Cmd+Option+J` on Mac) to open DevTools.
-3. Open [`buddy-console.js`](buddy-console.js), select all (`Ctrl+A`), copy (`Ctrl+C`), paste it into the **Console** tab, and press **Enter**.
+3. Open [`ixl-buddy-console.js`](ixl-buddy-console.js), select all (`Ctrl+A`), copy (`Ctrl+C`), paste it into the **Console** tab, and press **Enter**.
 4. The Buddy HUD will appear in the bottom-right corner immediately!
 
 > [!NOTE]
@@ -81,7 +81,7 @@ You can run IXL Buddy either as a persistent userscript (recommended) or directl
      })
      .catch(err => console.error("[CSP BLOCKED]", err));
    ```
-10. If you see `%c[CSP BYPASS SUCCESS]`, you're all set! Paste and run [`buddy-console.js`](buddy-console.js). If you get hit with a wall of red error text, re-check that the override folder has permission and that the header change was saved.
+10. If you see `%c[CSP BYPASS SUCCESS]`, you're all set! Paste and run [`ixl-buddy-console.js`](ixl-buddy-console.js). If you get hit with a wall of red error text, re-check that the override folder has permission and that the header change was saved.
 
 ---
 
